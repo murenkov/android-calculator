@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backspace_button">Стереть</string>
+    <string name="default_error_message">Неверное выражение!</string>
+    <string name="dot_button">,</string>
+    <string name="unbalanced_brackets_message">Скобки не сбалансированы.</string>
+</resources>

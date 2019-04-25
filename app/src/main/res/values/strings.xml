@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Calculator</string>
+
+    <!-- main screen -->
+    <string name="digit_0" translatable="false">0</string>
+    <string name="digit_1" translatable="false">1</string>
+    <string name="digit_2" translatable="false">2</string>
+    <string name="digit_3" translatable="false">3</string>
+    <string name="digit_4" translatable="false">4</string>
+    <string name="digit_5" translatable="false">5</string>
+    <string name="digit_6" translatable="false">6</string>
+    <string name="digit_7" translatable="false">7</string>
+    <string name="digit_8" translatable="false">8</string>
+    <string name="digit_9" translatable="false">9</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="multiply" translatable="false">×</string>
+    <string name="division" translatable="false">÷</string>
+    <string name="power_button" translatable="false">^</string>
+    <string name="backspace_button">Back</string>
+    <string name="dot_button">.</string>
+    <string name="left_bracket" translatable="false">(</string>
+    <string name="right_bracket" translatable="false">)</string>
+    <!--main screen -->
+
+    <string name="default_error_message">Invalid statement!</string>
+    <string name="unbalanced_brackets_message">Unbalanced braces.</string>
+</resources>
